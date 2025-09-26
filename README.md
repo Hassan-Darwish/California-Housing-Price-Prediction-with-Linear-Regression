@@ -67,7 +67,7 @@ Below is a plot comparing the model's predictions to the true values on the test
 1. Clone the repository to your local machine.
 
 ```bash
-git clone [<your-repository-url>](https://github.com/Hassan-Darwish/California-Housing-Price-Prediction-with-Linear-Regression)
+git clone https://github.com/Hassan-Darwish/California-Housing-Price-Prediction-with-Linear-Regression
 ```
 
 2. Run the data_cleaning.ipynb notebook first to generate the housing_training.csv and housing_testing.csv files.
