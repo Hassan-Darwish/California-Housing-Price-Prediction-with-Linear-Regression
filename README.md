@@ -51,8 +51,7 @@ The model was evaluated on the unseen test set using Mean Squared Error (MSE), R
 
 Below is a plot comparing the model's predictions to the true values on the test set.
 
-![True vs Predicted Values](<img width="565" height="453" alt="image" src="https://github.com/user-attachments/assets/094fa508-26a8-4499-b38a-b45f51c4501d" />
-){width="640" alt="True vs Predicted Values"}
+(<img width="565" height="453" alt="image" src="https://github.com/user-attachments/assets/094fa508-26a8-4499-b38a-b45f51c4501d">
 
 🚀 How to Run
 
